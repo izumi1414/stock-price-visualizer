@@ -1,4 +1,20 @@
-# Setup
+# 株価可視化アプリ
+
+Yahoo Financeから株価データを取得し、複数銘柄の終値を表やグラフで可視化するシンプルなWebアプリです。
+
+## 主な機能
+- 複数銘柄の株価取得
+- 直近20日間の終値を表示
+- 株価データの可視化
+
+## 使用技術
+- Python
+- Streamlit
+- Pandas
+- yfinance
+- Altair
+
+# セットアップ手順
 
 ```bash
 # Clone the repository
